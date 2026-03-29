@@ -1,3 +1,4 @@
+#PavanAdithya121
 # 💫 About Me:
 Hi, I'm Pavan Adithya V 👋<br><br>🎓 Final Year B.E. (Information Science) Student  <br>💼 Student Intern at DCL  <br>💻 Full Stack Developer | AI Enthusiast  <br><br>I am a passionate developer focused on building scalable web applications and intelligent systems.  <br>I have hands-on experience in Node.js, React, REST APIs, and basic Machine Learning concepts.<br><br>🚀 Projects:<br>- Bulk Mail System (Full Stack)<br>- IPR Management using Blockchain<br><br>🌱 Currently improving:<br>- Data Structures & Algorithms (Python)<br>- Backend scalability & API design<br>- AI & Multi-Agent Systems (Crew AI)<br><br>
 
